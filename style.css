@@ -1,0 +1,54 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background-color: #4c6ac0;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:#333;
+}
+
+.form{
+    max-width: 350px;
+    background-color: #f4f4f4;
+    margin:auto;
+    line-height: 1.6em;
+    }
+
+.form p{
+    margin-bottom: 0;
+}
+.form form{
+    padding: 20px;
+}
+input{
+    width:100%;
+    height: 30px;;
+
+}
+
+h1{
+    text-align: center;
+    margin:0;
+    padding-top: 30px;
+}
+p{
+    text-align: center;
+}
+.btn{
+    width:100%;
+    height:30px;
+    border: none;
+    border-radius: 5px;
+    background-color:darkseagreen;
+    color:#f4f4f4;
+}
+a{
+    text-decoration: none;
+}
+.login p{
+    color:#f4f4f4;
+}
+.login p a{
+    color: aquamarine;
+}
+
